@@ -1,4 +1,4 @@
-update=Wednesday, December 20, 2017 'AMt' 05:23:03 AM
+update=Wednesday, December 20, 2017 'AMt' 06:41:49 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../SplunkBadge/PCB2017-revB-Winner;Library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -56,5 +58,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=Library/2018DemoBadgeLibrary
+LibName31=PCB2017-revB
