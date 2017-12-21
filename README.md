@@ -6,3 +6,4 @@ Initial goals for Apger/Lu:
 2.  masking over copper graphics for a raised 3d image/effect
 3.  importing high res graphics as stencils
 4.  using a high-res graphic outline for cutlines to make an interesting shape for a badge
+5. 
