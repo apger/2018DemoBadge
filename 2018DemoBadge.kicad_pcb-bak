@@ -3,9 +3,9 @@
   (general
     (links 8)
     (no_connects 8)
-    (area 105.430881 70.84252 185.181817 140.735001)
+    (area 98.349999 67.234999 193.115001 144.855001)
     (thickness 1.6)
-    (drawings 0)
+    (drawings 4)
     (tracks 0)
     (zones 0)
     (modules 8)
@@ -1388,7 +1388,7 @@
   )
 
   (module FootprintLibrary:SkullCrossbones2000SM (layer F.Cu) (tedit 0) (tstamp 5A3D4283)
-    (at 115.57 83.185)
+    (at 113.665 86.995)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
     )
@@ -1915,4 +1915,24 @@
       (xy 0.432817 -9.558067)) (layer F.Mask) (width 0.01))
   )
 
+  (gr_line (start 193.04 67.31) (end 98.425 67.31) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 193.04 144.78) (end 193.04 67.31) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 98.425 144.78) (end 193.04 144.78) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 98.425 67.31) (end 98.425 144.78) (angle 90) (layer Edge.Cuts) (width 0.15))
+
+  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 5A3D4261) (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 114.935 97.79) (xy 104.14 97.79) (xy 104.14 73.66) (xy 114.3 73.66)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 114.804614 97.663) (xy 104.267 97.663) (xy 104.267 73.787) (xy 114.176298 73.787)
+      )
+    )
+  )
 )
