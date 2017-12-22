@@ -1,4 +1,4 @@
-update=Wednesday, December 20, 2017 'AMt' 06:41:49 AM
+update=Thursday, December 21, 2017 'PMt' 08:03:53 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../SplunkBadge/PCB2017-revB-Winner;Library
+LibDir=Library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
