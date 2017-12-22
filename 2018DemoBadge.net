@@ -1,8 +1,8 @@
 (export (version D)
   (design
     (source /DataPersonal/CodeExamples/2018DemoBadge/2018DemoBadge.sch)
-    (date "Wednesday, December 20, 2017 'AMt' 07:41:20 AM")
-    (tool "Eeschema 4.0.6")
+    (date "Thursday, December 21, 2017 'PMt' 08:18:22 PM")
+    (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title "2018 Demo Badge")
