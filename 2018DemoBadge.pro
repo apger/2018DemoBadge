@@ -1,4 +1,4 @@
-update=Thursday, December 21, 2017 'PMt' 08:03:53 PM
+update=Thursday, December 21, 2017 'PMt' 08:09:04 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,4 +59,3 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=Library/2018DemoBadgeLibrary
-LibName31=PCB2017-revB
